@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MarkTBSS/go-genError/module"
+	"github.com/MarkTBSS/go-importPackage/module"
 )
 
 func main() {
